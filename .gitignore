@@ -1,0 +1,12 @@
+# Build artifacts
+*.pdf
+
+# Claude Code / claude-flow development tools
+.claude/
+.claude-flow/
+.mcp.json
+CLAUDE.md
+
+# Editor files
+*.swp
+*.swo
